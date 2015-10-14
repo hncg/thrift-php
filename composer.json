@@ -1,5 +1,5 @@
 {
-    "name": "eleme/thrift-php",
+    "name": "hncg/thrift-php",
     "type": "library",
     "description": "Mirror of apache thrift client lib of php",
     "keywords": ["thrift"],
